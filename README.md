@@ -1,2 +1,2 @@
 # git-practice
-Algo ga coursera git practice
+Coursera github course practice repo
